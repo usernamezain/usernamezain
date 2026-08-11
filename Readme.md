@@ -1,56 +1,86 @@
-<!-- Animated Header -->
+<!-- ================= ANIMATED HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,50:7000FF,100:FF005C&height=200&section=header&text=Zain%20Ali&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%7C%20Frontend%20Architect&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:24243e,75:7000FF,100:FF005C&height=260&section=header&text=ZAIN%20ALI&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Creative%20Developer%20•%20Frontend%20Architect%20•%20WebGL%20Artist&descAlignY=52&descAlign=50&descSize=20" />
 </p>
 
-<!-- Live GitHub Stats Badges -->
+<!-- ================= TYPING SVG ================= -->
+<p align="center">
+  <a href="https://zain-mughal.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Immersive+3D+Web+Experiences;Architecting+Scalable+Frontend+Systems;Turning+Ideas+Into+Interactive+Art;Powered+by+React+%2B+Three.js+%2B+GSAP" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ================= SOCIAL / STAT BADGES ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usernamezain&style=for-the-badge&color=00D1FF&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/usernamezain?style=for-the-badge&color=FF005C&labelColor=1a1a1a&logo=github" />
   <img src="https://img.shields.io/github/stars/usernamezain?style=for-the-badge&color=7000FF&labelColor=1a1a1a&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-25D366?style=for-the-badge&labelColor=1a1a1a&logo=statuspage" />
 </p>
 
-<!-- Dynamic GitHub Stats Cards -->
 <p align="center">
-  <a href="https://github.com/usernamezain">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamezain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=FF005C&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/usernamezain">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamezain&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF" />
-  </a>
-</p>
-
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/usernamezain/usernamezain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://zain-mughal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_Work-00D1FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" /></a>
+  <a href="https://linkedin.com/in/usernamezain"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029VbBUVv35fM5eAnXw3w2D"><img src="https://img.shields.io/badge/Community-Join_Drops-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Hire_Me-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧬 About Me
 
-> *"Transforming complex ideas into elegant, performant digital experiences that don't just function—they inspire."*
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a **Senior Frontend Developer** specializing in the intersection of **technical precision** and **artistic vision**. I architect high-end web applications with a focus on immersive 3D WebGL experiences, fluid motion design, and scalable frontend architectures.
+> *"Transforming complex ideas into elegant, performant digital experiences that don't just function — they inspire."*
 
-- 🔭 Currently building: **[Mughal.Dev](https://zain-mughal.vercel.app)** - My 3D immersive portfolio
-- 🌱 Exploring: **WebGPU**, **React Server Components**, **AI-driven UI**
-- 👯 Open to collaborate on: **Creative coding**, **WebGL experiences**, **Design systems**
-- ⚡ Fun fact: I started coding by reverse-engineering Flash animations
+I'm a **Senior Frontend Developer** working at the intersection of **technical precision** and **artistic vision**. I architect high-end web applications with a focus on immersive 3D WebGL experiences, fluid motion design, and scalable frontend systems.
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=2600&pause=700&color=7000FF&center=false&vCenter=true&multiline=true&repeat=true&width=520&height=120&lines=%F0%9F%94%AD+Currently+building%3A+Mughal.Dev;%F0%9F%8C%B1+Exploring%3A+WebGPU+%2B+RSC+%2B+AI-driven+UI;%F0%9F%A4%9D+Open+to%3A+Creative+coding+collabs;%E2%9A%A1+Fun+fact%3A+started+by+hacking+Flash+SWFs" alt="about typing" />
+
+</td>
+<td width="42%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="coding animation" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/usernamezain/usernamezain/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="wave divider"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Skill Mind Map
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamezain&theme=radical&hide_border=true&background=0D1117&stroke=00D1FF&ring=FF005C&fire=7000FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usernamezain&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=FF005C&point=7000FF" alt="Activity Graph" />
-</p>
+```mermaid
+mindmap
+  root((Zain Ali))
+    Frontend Core
+      React
+      Next.js
+      TypeScript
+      Vue.js
+    Motion & 3D
+      Three.js
+      React Three Fiber
+      GSAP
+      Framer Motion
+      WebGL / WebGPU
+    Backend & Tooling
+      Node.js
+      GraphQL
+      Vite
+      Docker
+    Craft
+      Design Systems
+      UI/UX Engineering
+      Performance Optimization
+      Creative Coding
+```
 
 ---
 
@@ -76,19 +106,65 @@ I'm a **Senior Frontend Developer** specializing in the intersection of **techni
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamezain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=FF005C&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernamezain&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamezain&theme=radical&hide_border=true&background=0D1117&stroke=00D1FF&ring=FF005C&fire=7000FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usernamezain&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=FF005C&point=7000FF" alt="Activity Graph" width="95%" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Live Demo | Tech Stack | Description | Stars | Forks |
-|---------|-----------|------------|-------------|-------|-------|
-| **[Mughal.Dev](https://github.com/usernamezain/mughal-dev)** | [🌐 Visit](https://zain-mughal.vercel.app) | ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js) ![R3F](https://img.shields.io/badge/-React%20Three%20Fiber-000000?style=flat-square) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square) | Personal 3D immersive portfolio with WebGL shaders and interactive scenes | ![Stars](https://img.shields.io/github/stars/usernamezain/mughal-dev?style=social) | ![Forks](https://img.shields.io/github/forks/usernamezain/mughal-dev?style=social) |
-| **[Ultimate Empire](https://github.com/usernamezain/ultimate-empire)** | [🌐 Visit](https://ultimate-empire.online) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square) ![Lenis](https://img.shields.io/badge/-Lenis-FF6B6B?style=flat-square) | Organic social growth platform with fluid scrolling & smooth locomotive scroll | ![Stars](https://img.shields.io/github/stars/usernamezain/ultimate-empire?style=social) | ![Forks](https://img.shields.io/github/forks/usernamezain/ultimate-empire?style=social) |
-| **[Bukhari Designers](https://github.com/usernamezain/bukhari-designers)** | [🌐 Visit](https://bukharidesign.com) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Lenis](https://img.shields.io/badge/-Lenis-FF6B6B?style=flat-square) | Premium agency site for global Graphic & UI/UX services | ![Stars](https://img.shields.io/github/stars/usernamezain/bukhari-designers?style=social) | ![Forks](https://img.shields.io/github/forks/usernamezain/bukhari-designers?style=social) |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 [Mughal.Dev](https://zain-mughal.vercel.app)
+Personal 3D immersive portfolio with WebGL shaders and interactive scenes.
+
+`Three.js` `React Three Fiber` `GSAP`
+
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/usernamezain/mughal-dev)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 [Ultimate Empire](https://ultimate-empire.online)
+Organic social growth platform with fluid scrolling & smooth locomotive scroll.
+
+`React` `GSAP` `Lenis`
+
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/usernamezain/ultimate-empire)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 [Bukhari Designers](https://bukharidesign.com)
+Premium agency site for global Graphic & UI/UX services.
+
+`React` `TypeScript` `Lenis`
+
+[![Repo](https://img.shields.io/badge/-View_Repo-181717?style=flat-square&logo=github)](https://github.com/usernamezain/bukhari-designers)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 Career Path
 
-mermaid
+```mermaid
 timeline
     title Career Journey
     2021 : Junior Developer @ W3 Schools
@@ -97,12 +173,98 @@ timeline
          : Specialized in React & Animation libraries
     2026 : Senior Frontend Developer @ Mughal Dev
          : Leading 3D WebGL & Creative Development
-🏆 GitHub Trophies
+```
+
+---
+
+## ⚙️ How I Work
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60%" alt="working animation"/>
+</p>
+
+### 🔄 My Build Pipeline
+
+```mermaid
+flowchart LR
+    A[💡 Idea / Brief] --> B[✏️ Wireframe & Motion Concept]
+    B --> C[🎨 Design System Setup]
+    C --> D[🧩 Component Architecture]
+    D --> E[✨ WebGL / Motion Layer]
+    E --> F[⚡ Performance Pass]
+    F --> G[🚀 Ship]
+    G -.feedback loop.-> B
+
+    style A fill:#0D1117,stroke:#00D1FF,color:#fff
+    style B fill:#0D1117,stroke:#7000FF,color:#fff
+    style C fill:#0D1117,stroke:#7000FF,color:#fff
+    style D fill:#0D1117,stroke:#7000FF,color:#fff
+    style E fill:#0D1117,stroke:#FF005C,color:#fff
+    style F fill:#0D1117,stroke:#FF005C,color:#fff
+    style G fill:#0D1117,stroke:#00D1FF,color:#fff
+```
+
+### 🧭 My State of Mind on a Project
+
+```mermaid
+stateDiagram-v2
+    [*] --> Discovery
+    Discovery --> Prototyping: requirements clear
+    Prototyping --> Refining: core interaction feels right
+    Refining --> Optimizing: visuals approved
+    Optimizing --> Shipping: 60fps achieved
+    Shipping --> Discovery: next feature
+    Refining --> Prototyping: needs rework
+    Shipping --> [*]
+```
+
+### 📅 A Typical Build Week
+
+```mermaid
+gantt
+    title Weekly Rhythm
+    dateFormat  X
+    axisFormat %s
+    section Discovery
+    Client sync & scoping      :done, a1, 0, 1
+    Wireframes & motion refs   :done, a2, 1, 2
+    section Build
+    Component architecture     :active, b1, 2, 4
+    WebGL / animation layer    :active, b2, 4, 6
+    section Polish
+    Performance + a11y pass    :c1, 6, 7
+    QA & ship                  :c2, 7, 8
+```
+
+### 🧩 Working Style
+
+| Principle | What it means in practice |
+|---|---|
+| **Motion with purpose** | Every animation earns its frame — nothing moves without guiding attention or giving feedback |
+| **Performance first** | 60fps is the baseline, not the goal — I profile before I polish |
+| **Systems over one-offs** | Reusable components, design tokens, and typed APIs so the codebase scales with the team |
+| **Ship, then iterate** | Fast, testable increments beat perfect-on-paper plans |
+| **Design ↔ Dev feedback loop** | I prototype interactions in code early so design decisions are grounded in what actually feels good |
+
+### 🧰 Daily Toolkit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion,postman,vercel,docker&theme=dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=usernamezain&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
-🤝 Let's Connect & Build
-<p align="left">
+
+---
+
+## 🤝 Let's Connect & Build
+
+<p align="center">
   <a href="https://zain-mughal.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-View_Work-00D1FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
@@ -116,7 +278,8 @@ timeline
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<!-- Footer -->
+
+<!-- ================= ANIMATED FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF005C,50:7000FF,100:00D1FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF005C,50:7000FF,100:00D1FF&height=120&section=footer" />
 </p>
