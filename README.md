@@ -1,6 +1,6 @@
 <!-- ================= PIXEL HEADER ================= -->
 <p align="center">
-  <img src="./assets/header.gif" width="100%" alt="Zain Ali - pixel art coding animation" />
+  <img src="./header.gif" width="100%" alt="Zain Ali - pixel art coding animation" />
 </p>
 
 <p align="center">
